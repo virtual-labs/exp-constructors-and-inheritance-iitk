@@ -124,7 +124,7 @@ answers: {
         d: "None of these"
 },
 correctAnswer: "c"
-}
+
 },
 
 
@@ -145,7 +145,7 @@ buildQuiz();
 
 // on submit, show results
 submitButton.addEventListener("click", showResults);
-}) ();
+})();
 
 
 /////////////////////////////////////////////////////////////////////////////

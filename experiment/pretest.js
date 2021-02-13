@@ -90,9 +90,9 @@
 
   const myQuestions = [
     {
-      question: "Which of the following is not a type of inheritance?"
-str1[3]= 's'
-print(str1)
+      question: "Which of the following is not a type of inheritance?\
+str1[3]= 's'\
+print(str1)\
 ? ",  
 ///// Write the question inside double quotes
       answers: {
@@ -151,7 +151,7 @@ correctAnswer: "c"                ///// Write the correct option inside double q
   correctAnswer: "a"
 },
 
-;
+  ];
 
 
 

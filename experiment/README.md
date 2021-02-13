@@ -43,8 +43,7 @@ Output: variable value.
 ### Pre Test
 
 1. "Which of the following is not a type of inheritance?"
-
- <br>
+                       <br>
                         A.<input type="radio" name="but" id="rb11" onclick="click1();">&nbsp;Multiple
                         <br>
                         B.<input type="radio" name="but" id="rb12" onclick="click1();">&nbsp;Multi-level
@@ -55,7 +54,7 @@ Output: variable value.
                         <br>
                         <p id = "p1"></p>
                         <br>
- 2."__del__() is:"
+ 2. "__del__() is:"
                         <br>
                         A. <input type="radio" name="but2" id="rb21" onclick="click2();">&nbsp;Function
                         <br>
@@ -81,19 +80,19 @@ Output: variable value.
                         <p id = "p4"></p>
                         <br>
 4."Which of the following is disadvantage of inheritance?"
-<br>
+                        <br>
                         A. <input type="radio" name="but3" id="rb31" onclick="click3();">&nbsp;Coupling
                         <br>
                         B. <input type="radio" name="but3" id="rb32" onclick="click3();">&nbsp;Cohesion
                         <br>
                         C. <input type="radio" name="but3" id="rb33" onclick="click3();">&nbsp;Both A and B
- <br>
-                        D. <input type="radio" name="but3" id="rb34" onclick="click3();">&nbsp;None of these
-                         <br><br>
-                        <p id = "p3"></p>
                         <br>
+                        D. <input type="radio" name="but3" id="rb34" onclick="click3();">&nbsp;None of these
+                        <br><br>
+                        <p id = "p3"></p>
+                        <br>                  
 5."Python supports multiple inheritance."
- <br>
+                        <br>
                         A.<input type="radio" name="but" id="rb11" onclick="click1();">&nbsp;True
                         <br>
                         B.<input type="radio" name="but" id="rb12" onclick="click1();">&nbsp;False
@@ -102,7 +101,6 @@ Output: variable value.
 ### Post Test
 
 1.  Which of the following statements is true?
-
     <br>
     A.<input type="radio" name="but" id="rb11" onclick="click1();">&nbsp;. The __init__() method is defined in the object class.
     <br>
@@ -111,14 +109,13 @@ Output: variable value.
     C.<input type="radio" name="but" id="rb13" onclick="click1();">&nbsp; By default, the __new__() method invokes the __init__ method.
     <br>
     D.<input type="radio" name="but" id="rb14" onclick="click1();">&nbsp; All of the above
-
     <br>
     <p id = "p1"></p>
     <br>
 
-    2.Which of the following statements is true?
+2. Which of the following statements is true?
     <br>
-    A. <input type="radio" name="but2" id="rb21" onclick="click2();">&nbsp; The __new__() method automatically invokes the __init__ method
+    A. <input type="radio" name="but2" id="rb21" onclick="click2();">&nbsp; The __new__() method automatically invokes the __init__          method 
     <br>
     B. <input type="radio" name="but2" id="rb22" onclick="click2();">&nbsp; The __init__ method is defined in the object class
     <br>
@@ -130,22 +127,21 @@ Output: variable value.
     <br>
 
 3.  Which of the following is correct?
-
-<br>
-A. <input type="radio" name="but4" id="rb41" onclick="click4();">&nbsp; <br>def __init__(self, personName, personAge):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;self.name = personName<br>
-&nbsp;&nbsp;&nbsp;&nbsp;self.age = personAge 
-<br>
-B. <input type="radio" name="but4" id="rb42" onclick="click4();">&nbsp; <br>def __init__(self, personName, personAge):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;self.personName = personName<br>
-&nbsp;&nbsp;&nbsp;&nbsp;self.personAge = personAge
-<br>
-C. <input type="radio" name="but4" id="rb43" onclick="click4();">&nbsp; Both a and b 
-<br>
-D. <input type="radio" name="but4" id="rb44" onclick="click4();">&nbsp; None of the above
-<br><br>
-<p id = "p4"></p>
-<br>
+    <br>
+    A. <input type="radio" name="but4" id="rb41" onclick="click4();">&nbsp; <br>def __init__(self, personName, personAge):<br>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.name = personName<br>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.age = personAge 
+       <br>
+     B. <input type="radio" name="but4" id="rb42" onclick="click4();">&nbsp; <br>def __init__(self, personName, personAge):<br>
+           &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.personName = personName<br>
+           &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.personAge = personAge
+     <br>
+     C. <input type="radio" name="but4" id="rb43" onclick="click4();">&nbsp; Both a and b 
+     <br>
+     D. <input type="radio" name="but4" id="rb44" onclick="click4();">&nbsp; None of the above
+     <br><br>
+     <p id = "p4"></p>
+     <br>
 
 
 ### References
