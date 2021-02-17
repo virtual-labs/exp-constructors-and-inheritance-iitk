@@ -1,5 +1,3 @@
-## Theory
-
 Inheritance is a feature that says if you define a new class giving a reference of some other class then due to inheriting property of python your new class will inherit all attributes and behavior of the parent class.
 A Constructor is a special kind of method that have same name as the class in python self variable do the same. It can be used to set the values of the members of an object.
 
