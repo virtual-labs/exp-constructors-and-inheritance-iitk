@@ -1,16 +1,28 @@
 [{
-	"question": "1.This is a sample question:",
+	"question": "Which of the following statements is true?",
 	"answers": {
-		"a": "This is a sample answer A",
-		"b": "This is a sample answer B"
+		"a": "The __init__() method is defined in the object class.",
+		"b": "The __new__() method is defined in the object class.",
+		"c": "By default, the __new__() method invokes the __init__ method.",
+		"d": "All of the above"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "d"
 }, {
-	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
+	"question": "Which of the following statements is true?",
 	"answers": {
-		"a": "<img src='images/1b.png'>",
-		"b": "<img src='images/1a.png'>",
-		"c": "<img src='images/1c.PNG'>"
+		"a": "The __new__() method automatically invokes the __init__ method",
+		"b": "The __init__ method is defined in the object class",
+		"c": "The __eq(other) method is defined in the object class",
+		"d": "The __repr__() method is defined in the object class"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Which of the following is correct?",
+	"answers": {
+		"a": "def __init__(self, personName, personAge):\n\tself.name = personName\n\tself.age = personAge",
+		"b": "def __init__(self, personName, personAge):\n\tself.personName = personName\n\tself.personAge = personAge",
+		"c": "Both A and B",
+		"d": "None of these"
 	},
 	"correctAnswer": "c"
 }]
