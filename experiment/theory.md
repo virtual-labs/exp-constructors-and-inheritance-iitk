@@ -6,9 +6,14 @@ Syntax:<br><br>
 <img src="images/img1.PNG"><br><br>
 <b>Types of constructors : </b><br><br>
 
-default constructor: The default constructor is a simple constructor which doesn’t accept any arguments. Its definition has only one argument which is a reference to the instance being constructed.
-parameterized constructor: constructor with parameters is known as parameterized constructor. The parameterized constructor takes its first argument as a reference to the instance being constructed known as self and the rest of the arguments are provided by the programmer.
+Default constructor: The default constructor is a simple constructor which doesn’t accept any arguments. Its definition has only one argument which is a reference to the instance being constructed.<br>
+Parameterized constructor: constructor with parameters is known as parameterized constructor. The parameterized constructor takes its first argument as a reference to the instance being constructed known as self and the rest of the arguments are provided by the programmer.
 <br><br>
+Program<br><br>
+<img src="images/img5.PNG">
+Output<br><br>
+1000<br>
+2000<br><br>
 How to call objects using constructors:<br><br>
 Syntax:<br>
 Object_name=class_name('variable values',variable values)<br><br>
