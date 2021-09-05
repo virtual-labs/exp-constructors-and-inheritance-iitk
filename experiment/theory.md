@@ -10,7 +10,7 @@ Default constructor: The default constructor is a simple constructor which doesn
 Parameterized constructor: constructor with parameters is known as parameterized constructor. The parameterized constructor takes its first argument as a reference to the instance being constructed known as self and the rest of the arguments are provided by the programmer.
 <br><br>
 Program<br><br>
-<img src="images/img5.PNG">
+<img src="images/img5.PNG"><br><br>
 Output<br><br>
 1000<br>
 2000<br><br>
