@@ -24,7 +24,8 @@ Object_name=class_name('variable values',variable values)<br><br>
 Program<br><br>
 <img src="images/img2.PNG"><br><br>
 Output<br>
-1000<br><br>
+name = Harry<br>
+subject = chemistry<br><br>
 How to inherit a class<br><br>
 Syntax:<br><br>
 class class_name(parent class name)<br><br>
