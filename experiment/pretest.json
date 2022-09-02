@@ -1,5 +1,5 @@
 [{
-	"question": "Which of the following is not a type of inheritance?str1[3]= 's'print(str1)? ",
+	"question": "Which of the following is not a type of inheritance?",
 	"answers": {
 		"a": "Multiple",
 		"b": "Single-level",
@@ -35,7 +35,7 @@
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "Python supports multiple inheritance.",
+	"question": "Python supports multiple inheritance",
 	"answers": {
 		"a": "True",
 		"b": "False"
