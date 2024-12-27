@@ -1,0 +1,44 @@
+[{
+	"question": "Which of the following is not a type of inheritance?",
+	"answers": {
+		"a": "Multiple",
+		"b": "Single-level",
+		"c": "Multi-level",
+		"d": "Double"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "__del__() is:",
+	"answers": {
+		"a": "Function",
+		"b": "Constructor",
+		"c": "Destructor",
+		"d": "None of the mentioned"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Benifits of inheritance are",
+	"answers": {
+		"a": "Data hiding",
+		"b": "Overriding",
+		"c": "Reusability",
+		"d": "All of these"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Which of the following is disadvantage of inheritance?",
+	"answers": {
+		"a": "Coupling",
+		"b": "Cohesion",
+		"c": "Both A and B",
+		"d": "None of the above"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Python supports multiple inheritance",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}]
