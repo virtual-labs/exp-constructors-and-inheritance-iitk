@@ -13,7 +13,7 @@
 		"a": "The __new__() method automatically invokes the __init__ method",
 		"b": "The __init__ method is defined in the object class",
 		"c": "The __eq(other) method is defined in the object class",
-		"d": "The __repr__() method is defined in the object class"
+		"d": "All of the above"
 	},
 	"correctAnswer": "c"
 }, {
